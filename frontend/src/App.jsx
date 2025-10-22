@@ -41,7 +41,7 @@ const AppContent = () => {
       </Header>
 
       <div className="flex flex-1 overflow-hidden">
-        <Sidebar />
+        <Sidebar />  
 
         <main className="flex-1 overflow-y-auto p-6 space-y-10 pr-[56px]">
           <section>
